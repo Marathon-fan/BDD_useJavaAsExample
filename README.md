@@ -82,7 +82,9 @@ Scenario: Scenario name
 
 ```
 
+BDD is storytelling-oriented.  
 
+BDD gives a clearer understanding as to what the system should do from the perspective of the developer and the customer. TDD only gives the developer an understanding of what the system should do.
 
 
   
